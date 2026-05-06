@@ -1,0 +1,18 @@
+﻿# Build output
+**/build/
+**/out/
+**/target/
+**/dist/
+**/.gradle/
+
+# JVM
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
